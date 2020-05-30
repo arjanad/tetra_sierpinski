@@ -4,6 +4,8 @@ import pickle #ce module nous permettra d'enregistrer la liste de tous les tétr
 
 T=[] #on crée une liste vide dans laquelle nous enregistrerons plus tard les tétraèdres de Sierpinski complets que nous trouverons
 
+#Hello Clara
+
 #on déclare d'abord les variables libres de notre système en tant qu'entiers choisis aléatoirement entre 1 et 500
 a1 = int(random.randint(1,500))
 print("a1=",a1)
